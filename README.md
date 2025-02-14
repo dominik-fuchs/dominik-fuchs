@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dominik Fuchs! 🦾
 
-<!--
-**dominik-fuchs/dominik-fuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Solana & Rust developer optimizing high-performance DeFi protocols. Focused on smart contract security and decentralized automation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Specializing in **high-performance Solana DeFi protocols**
+- 🛠 Experienced in **Rust, Web3, and blockchain architecture**
+- 🔐 Passionate about **smart contract security and formal verification**
+- 🤖 Developing **automated decentralized solutions** for DeFi
+- 📈 Focused on **scalability, gas efficiency, and protocol optimizations**
+- 🎤 Speaker at blockchain conferences and hackathons
+- 💬 Ask me about **Rust, Solana, DeFi architecture, and blockchain automation**
+- 📫 Let's connect: [Twitter](#) | [LinkedIn](#) | [Website](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects & Contributions
+- ⚡ **[Horizon Technologies](https://github.com/hzn-technologies/)** – Horizon Technologies pioneers AI-driven blockchain security, providing real-time fraud detection, smart contract auditing, and risk mitigation.
+---
+🦾 _Building the next generation of decentralized financial infrastructure._
