@@ -10,7 +10,7 @@
 - 📈 Focused on **scalability, gas efficiency, and protocol optimizations**
 - 🎤 Speaker at blockchain conferences and hackathons
 - 💬 Ask me about **Rust, Solana, DeFi architecture, and blockchain automation**
-- 📫 Let's connect: [Twitter](#) | [LinkedIn](#) | [Website](#)
+- 📫 Let's connect: [Website](https://dominik-fuchs.vercel.app/)
 
 ## 🔨 Projects & Contributions
 - ⚡ **[Horizon Technologies](https://github.com/hzn-technologies/)** – Horizon Technologies pioneers AI-driven blockchain security, providing real-time fraud detection, smart contract auditing, and risk mitigation.
